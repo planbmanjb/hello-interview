@@ -1,0 +1,12 @@
+* {
+padding: 0;
+margin: 0;
+border: 0;
+border-sizing: border-box;
+/*   border: 1px solid gray; */
+}
+#hello {
+color: red;
+font-family: "Ubuntu", sans-serif;
+text-align: center;
+}
